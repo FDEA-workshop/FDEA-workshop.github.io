@@ -7,7 +7,7 @@ layout: page
 #### Co-located with ICDE 2025
 #### May 19th 2025 (Monday), Hong Kong, China
 
-{% include figure.html img="workshop.jpg" alt="intro image here" caption="May 19th 2025 (Monday), Hong Kong, China" width="75%" %}
+{% include figure.html img="workshop.jpg" alt="intro image here" caption="May 19th 2025 (Monday), Hong Kong, China" width="90%" %}
 
 Welcome to the International Workshop on the Frontiers of Data Engineering and AI, to be held in conjunction with the prestigious International Conference on Data Engineering (ICDE) 2025. This workshop aims to bring together researchers, practitioners, and industry experts from around the world to explore the latest advancements and emerging trends at the intersection of data engineering and artificial intelligence.
 
