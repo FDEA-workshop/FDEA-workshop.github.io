@@ -4,9 +4,10 @@ layout: page
 ---
 
 # International Workshop on the Frontiers of Data Engineering and AI
-### Co-located with ICDE 2025, Hong Kong, China (Monday, May 19th 2025)
+#### Co-located with ICDE 2025
+#### May 19th 2025 (Monday), Hong Kong, China
 
-{% include figure.html img="workshop.jpg" alt="intro image here" caption="" width="75%" %}
+{% include figure.html img="workshop.jpg" alt="intro image here" caption="May 19th 2025 (Monday), Hong Kong, China" width="75%" %}
 
 
 
