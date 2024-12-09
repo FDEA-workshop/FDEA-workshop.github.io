@@ -19,6 +19,6 @@ Our program includes keynote presentations by leading experts, technical session
 
 <!--{% include toc.html %}-->
 
-------
+<!---------->
 
-{% include template/credits.html %}
+<!--{% include template/credits.html %}-->
