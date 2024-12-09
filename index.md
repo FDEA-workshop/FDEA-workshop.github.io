@@ -17,7 +17,7 @@ Participants will have the opportunity to engage with cutting-edge research and 
 
 Our program includes keynote presentations by leading experts, technical sessions featuring the latest research findings, and interactive discussions that foster collaboration and idea exchange. This is a unique opportunity to gain insights into the future directions of data engineering and AI, network with peers, and contribute to the development of innovative solutions that address real-world challenges.
 
-{% include toc.html %}
+<!--{% include toc.html %}-->
 
 ------
 
