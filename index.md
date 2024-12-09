@@ -5,7 +5,7 @@ layout: page
 
 # International Workshop on the Frontiers of Data Engineering and AI
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Co-located with ICDE 2025, Hong Kong, China" width="75%" %}
 
 A minimal Jekyll theme with Bootstrap for creating workshop websites.
 
