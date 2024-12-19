@@ -15,7 +15,7 @@ layout: page
 
 Participants will have the opportunity to engage with cutting-edge research and practical case studies that demonstrate the impact of AI on data engineering🔥. From scalable data processing and real-time analytics to AI-driven data quality and governance, the workshop will cover a broad spectrum of topics that are critical to advancing the field.
 
-Our program includes keynote presentations by leading experts, technical sessions featuring the latest research findings, and interactive discussions that foster collaboration and idea exchange. This is a unique opportunity to gain insights into the future directions of data engineering and AI, network with peers, and contribute to the development of innovative solutions that address real-world challenges.
+<!--Our program includes keynote presentations by leading experts, technical sessions featuring the latest research findings, and interactive discussions that foster collaboration and idea exchange. This is a unique opportunity to gain insights into the future directions of data engineering and AI, network with peers, and contribute to the development of innovative solutions that address real-world challenges.-->
 
 <!--{% include toc.html %}-->
 
