@@ -2,6 +2,7 @@
 title: Home
 layout: page
 redirect_to: https://www.comp.hkbu.edu.hk/fdea2025
+target: https://www.comp.hkbu.edu.hk/fdea2025
 ---
 
 # International Workshop on the Frontiers of Data Engineering and AI
