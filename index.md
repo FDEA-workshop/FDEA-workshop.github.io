@@ -23,10 +23,6 @@ Participants will have the opportunity to engage with cutting-edge research and 
 
 <!--{% include template/credits.html %}-->
 
-## Invited Talks
-
-## Program
-
 ## Organizers
 
 <!--- [Jianliang Xu](https://www.comp.hkbu.edu.hk/~xujl/), Chair Professor, Hong Kong Baptist University-->
